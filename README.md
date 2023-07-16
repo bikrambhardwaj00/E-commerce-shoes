@@ -45,8 +45,10 @@ Start Django server by running the below command:
 
 ## Technologies used
 
-* Test 1
-* 
+* Python Django
+* SQLite3 as database
+* HTML, CSS, and JavaScript (Bootstrap for front-end)
+* Celery (For email notifications)
 
 # Screen Recording (demo)
 [<img src="https://img.youtube.com/vi/8Kpz921UsBQ/maxresdefault.jpg" width="50%">](https://youtu.be/8Kpz921UsBQ)
