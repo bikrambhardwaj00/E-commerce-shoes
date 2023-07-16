@@ -16,8 +16,31 @@ This is an e-commerce website built using Python Django that allows users to pur
 
 ## Getting Started
 
+Run following command in terminal to clone the repository:
+
 ```bash
   git clone https://github.com/kishan12345/E-commerce-site-Django-project.git
+```
+
+Install Python Django
+```bash
+  pip install django
+```
+
+Install celery (Note: celery features works only in linux system like Ubuntu but since it is part of the code, installation is required)
+```bash
+  pip install celery
+```
+
+cd into the directory
+```bash
+  cd E-commerce-site-Django-project
+```
+
+Start Django server by running the below command:
+
+```bash
+  python manage.py runserver
 ```
 
 # Screen Recording
