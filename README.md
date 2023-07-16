@@ -43,5 +43,10 @@ Start Django server by running the below command:
   python manage.py runserver
 ```
 
+## Technologies used
+
+* Test 1
+* 
+
 # Screen Recording (demo)
 [<img src="https://img.youtube.com/vi/8Kpz921UsBQ/maxresdefault.jpg" width="50%">](https://youtu.be/8Kpz921UsBQ)
