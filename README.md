@@ -17,7 +17,7 @@ This is an e-commerce website built using Python Django that allows users to pur
 ## Getting Started
 
 ```bash
-  git link
+  git clone https://github.com/kishan12345/E-commerce-site-Django-project.git
 ```
 
 # Screen Recording
