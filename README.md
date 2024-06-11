@@ -1,6 +1,6 @@
 # E-commerce Shoe Store
 
-This is an e-commerce website built using Python Django that allows users to purchase shoes of different brands. It includes all the basic functionalities of an e-commerce project, providing a seamless shopping experience for users. The project incorporates the following six key features:
+This is an e-commerce website built using Python Django that allows users to purchase shoes of different brands. It includes all the basic functionalities of an e-commerce project, providing a seamless shopping experience for users. The project incorporates the following 5 key features:
 
 ## Features
 
