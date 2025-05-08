@@ -3,9 +3,14 @@ from django.urls import path, include
 from store import views
 from django.conf.urls.static import static
 from django.conf import settings
+# from django.urls import path, include
+from django.shortcuts import redirect
 
 urlpatterns = [
+
     path('admin/', admin.site.urls),
+    path('', views.Home.as_view(), name='home'),
+
     path('checkout/',views.checkout,name="checkout"),
     path('login/',views.login_view,name="login"),
     path('shopbybrand/',views.shopbybrand.as_view(),name="shopbybrand"),
